@@ -1,4 +1,4 @@
-## Eu sou a Mariana Melo, uma Desenvolvedora FullStack!
+## Olá, eu sou a Mariana Melo, uma Desenvolvedora FullStack!
 
 <div>  
   <a href="https://github.com/mmelomari">
