@@ -1,4 +1,4 @@
-## Olá, eu sou a Mariana Melo, uma Software Developer!
+## Eu sou a Mariana Melo, uma Software Developer!
 
 <div>  
   <a href="https://github.com/mmelomari">
